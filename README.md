@@ -5,7 +5,7 @@ This Robot searches for a certain hue of orange on the screen (within certain pe
 It stores them in an array and then clicks on them until they no longer are that color.
 This enables it to beat levels of Peggle, which is a pachinko style game.
 
-[Peggle Bot video](https://youtu.be/U8IHVSI9yXY)
+[Peggle Bot video](https://youtu.be/kyQejKqYgP8)
 
 # Development Environment
 ---
