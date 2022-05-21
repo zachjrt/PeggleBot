@@ -16,4 +16,4 @@ Java
 
 # Useful Websites
 
-* [JAva Robot Library](https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html)
+* [Java Robot Library](https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html)
