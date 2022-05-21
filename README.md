@@ -1,21 +1,19 @@
 # Overview
 ---
 
-This repository is a portfolio of projects created in my learning process. 
+This Robot searches for a certain hue of orange on the screen (within certain perameters)
+It stores them in an array and then clicks on them until they no longer are that color.
+This enables it to beat levels of Peggle, which is a pachinko style game.
 
-This first one is a simple Hello World writen in python
-
-The software was written as a template for the portfolio, before I jump off to try more complicated things
-
-[Software Demo Video](https://youtu.be/U8IHVSI9yXY)
+[Peggle Bot video](https://youtu.be/U8IHVSI9yXY)
 
 # Development Environment
 ---
 
-Visual Studio Code
+IntelliJ
 
-Python 3.9.12
+Java
 
 # Useful Websites
 
-* [W3 school](https://www.w3schools.com/python/)
+* [JAva Robot Library](https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html)
