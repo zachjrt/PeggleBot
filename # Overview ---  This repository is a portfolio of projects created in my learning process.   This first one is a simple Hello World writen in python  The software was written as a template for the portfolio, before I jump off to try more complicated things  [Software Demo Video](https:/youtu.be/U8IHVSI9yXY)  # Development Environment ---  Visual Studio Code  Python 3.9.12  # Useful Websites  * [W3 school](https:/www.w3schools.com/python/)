@@ -1,0 +1,18 @@
+# Overview
+---
+
+This robot senses Orange on the screen, stores it in an array and clicks on found places with orange on it. 
+Outputs found pegs per sweep into files.
+
+[Software Demo Video](https://youtu.be/U8IHVSI9yXY)
+
+# Development Environment
+---
+
+IntelliJ
+
+Java
+
+# Useful Websites
+
+* [Java robot library](https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html)
